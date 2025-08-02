@@ -4,7 +4,7 @@ A simple, responsive multi-page website built using pure HTML and CSS. This proj
 
 ## 🌐 Live Preview
 
-*(Add a GitHub Pages or Netlify link here if deployed)*
+*https://einsteinke-hub.github.io/Einstein-Dipondo/*
 
 ---
 
